@@ -16,7 +16,7 @@ For info about CharlieUniform contact charlieuniformco+info@gmail.com.
 If you create several copies of the app, each with a different image and swap them periodically with [Charlie Uniform](https://charlieuniform.com) your digital screen becomes effective for targeting your audience thruout the day. Upload them independantly to [Charlie Uniform](https://charlieuniform.com) with different names to have each available to show in any of your digital screens.
 
 ## To Change the Fullscreen Image
-Download the zipfile from github. Extract into you filesystem. THe top level directory of the app should be ImageApp01-master, we will change this later. The top level directory or folder name will be the name of the content app in [Charlie Uniform](https://charlieuniform.com). Open the file ImageApp01-master/css/tapp1.css in any text editor. There will be a line like:
+Download the zipfile from github. Extract into you filesystem. The top level directory of the app should be ImageApp01-master, we will change this later. The top level directory or folder name will be the name of the content app in [Charlie Uniform](https://charlieuniform.com). Open the file ImageApp01-master/css/tapp1.css in any text editor. There will be a line like:
 ```
 background-image: url(../img/okeechobee.png);
 ```
@@ -30,7 +30,7 @@ Like so:
 /*filter: blur(5px);
 margin: -20px;*/
 ```
-Now name the top level folder something to help you know which image you are using. Say you want to display on one of your digital screens in the morning your best breakfast dish, "Waffles Henry". So upload an image of the dish and change the code as above. Now reame the top level directory from "ImageApp01-master" to "WafflesHenry". At this point you can drag and drop the new WafflesHenryf directory to [Charlie Uniform](https://charlieuniform.com) app. It is now a content application for any of your screens managed by [Charlie Uniform](https://charlieuniform.com). In the morning set the WafflesHenry content app to any of the screens that you want to display it on.
+Now name the top level folder something to help you know which image you are using. Say you want to display on one of your digital screens in the morning your best breakfast dish, "Waffles Henry". So upload an image of the dish and change the code as above. Now rename the top level directory from "ImageApp01-master" to "WafflesHenry". At this point you can drag and drop the new WafflesHenry directory to [Charlie Uniform](https://charlieuniform.com) app. It is now a content application for any of your screens managed by [Charlie Uniform](https://charlieuniform.com). In the morning set the WafflesHenry content app to any of the screens that you want to display it on.
 
 
 
